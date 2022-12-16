@@ -3,6 +3,13 @@ package com.abstract1;
 abstract public class Child1 extends Parent
 {
 	abstract public void car();
+	
+	
+	
+	
+	
+	
+	
 	public void signin()
 	{
 		System.out.println("amazon signin");
